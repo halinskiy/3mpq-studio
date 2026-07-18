@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- Pure flat shapes — NO gradients. qlmanage and many image
+       renderers butcher SVG gradients at small sizes, which is why
+       earlier renders showed grey patches inside the squircle and
+       washed-out bars. Solid fills survive every resampler. -->
+  <!-- macOS squircle. Apple icon template = ~22.4% of side for the
+       corner radius. 1024 × 0.224 ≈ 230. -->
+  <rect x="0" y="0" width="1024" height="1024" rx="230" ry="230" fill="#ffffff"/>
+  <!-- Two black capsule bars, centred. Bar width 144, height 528,
+       24-pt gap (340..484, 540..684). rx = bar half-width = 72. -->
+  <rect x="340" y="248" width="144" height="528" rx="72" ry="72" fill="#111111"/>
+  <rect x="540" y="248" width="144" height="528" rx="72" ry="72" fill="#111111"/>
+</svg>

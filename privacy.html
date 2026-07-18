@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Privacy Policy — Quirky</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --fg: #0f0f12;
+    --muted: #6b6b75;
+    --bg: #ffffff;
+    --rule: #e6e6ea;
+    --accent: #0a66ff;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --fg: #ececec; --muted: #9a9aa3; --bg: #0f0f12; --rule: #25252b; }
+  }
+  html, body { margin: 0; padding: 0; background: var(--bg); color: var(--fg); }
+  body {
+    font: 16px/1.6 -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  main { max-width: 720px; margin: 0 auto; padding: 64px 24px 96px; }
+  h1 { font-size: 32px; font-weight: 700; letter-spacing: -0.5px; margin: 0 0 8px; }
+  h2 { font-size: 18px; font-weight: 600; margin: 36px 0 8px; }
+  p, li { color: var(--fg); }
+  .muted { color: var(--muted); font-size: 14px; }
+  ul { padding-left: 20px; margin: 8px 0 0; }
+  li { margin: 4px 0; }
+  hr { border: 0; border-top: 1px solid var(--rule); margin: 28px 0; }
+  code { font-family: ui-monospace, "SF Mono", Menlo, monospace; background: var(--rule); padding: 2px 6px; border-radius: 4px; font-size: 14px; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  footer { margin-top: 48px; color: var(--muted); font-size: 13px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Privacy Policy</h1>
+  <p class="muted">Quirky · Effective 25 May 2026</p>
+
+  <hr>
+
+  <h2>Summary</h2>
+  <p>
+    Quirky does not collect, transmit, or store any personal data. Everything
+    the app captures (screen regions, recognized text, picked colors, pixel
+    measurements) is processed locally on your Mac and stays on your Mac.
+    There are no user accounts, no analytics, no tracking, no third-party SDKs,
+    and no network calls.
+  </p>
+
+  <h2>What Quirky accesses on your Mac</h2>
+  <ul>
+    <li>
+      <strong>Screen Recording</strong> — granted via macOS System Settings.
+      Required to draw the capture overlay and to read pixels from the screen
+      region you select. Pixel data is held in memory only for the duration of
+      the capture and is immediately discarded after the result (recognized
+      text, color hex, or measurement) is produced.
+    </li>
+    <li>
+      <strong>Clipboard (Pasteboard)</strong> — Quirky writes the result of a
+      capture (text, hex string, or measurement label) to the system
+      clipboard so you can paste it. Quirky never reads the existing clipboard
+      contents.
+    </li>
+  </ul>
+
+  <h2>What Quirky does NOT do</h2>
+  <ul>
+    <li>No accounts, no sign-in, no email collection.</li>
+    <li>No analytics or crash-reporting SDKs (Mac App Store version).</li>
+    <li>No advertising, no advertising identifiers.</li>
+    <li>No third-party services, no cloud sync, no servers operated by us.</li>
+    <li>
+      No network requests of any kind in the Mac App Store build (the
+      <code>com.apple.security.app-sandbox</code> entitlement is enforced and
+      the bundle does not ship an updater framework).
+    </li>
+    <li>No background activity when the app is not actively capturing.</li>
+  </ul>
+
+  <h2>Children</h2>
+  <p>
+    Quirky is rated 4+ and is suitable for all ages. We do not knowingly
+    collect data from anyone, including children under 13 (or the equivalent
+    minimum age in your jurisdiction).
+  </p>
+
+  <h2>Changes to this policy</h2>
+  <p>
+    If we ever change this policy — for example, to add an optional cloud
+    sync feature — we will update the effective date above and describe the
+    change. Material changes will also be highlighted in the app's release
+    notes.
+  </p>
+
+  <h2>Contact</h2>
+  <p>
+    Questions about this policy or about the app:
+    <a href="mailto:hegona3@gmail.com">hegona3@gmail.com</a>.
+  </p>
+
+  <footer>
+    Quirky is developed by Kostiantyn Halynskyi (PDB9JGGX74).
+    18 Ebchester Road, Leicester LE2 9LR, United Kingdom.
+  </footer>
+</main>
+</body>
+</html>

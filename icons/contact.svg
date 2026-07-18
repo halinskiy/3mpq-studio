@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Envelope (macOS Mail style) -->
+  <rect x="8" y="16" width="48" height="32" rx="4" fill="#a0a0a0" stroke="#888" stroke-width="1.5"/>
+  <path d="M8 20 L32 38 L56 20" stroke="#888" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Flap highlight -->
+  <path d="M8 20 L32 38 L56 20" fill="#b8b8b8"/>
+  <!-- Lines on envelope -->
+  <rect x="20" y="42" width="24" height="2" rx="1" fill="#888" opacity="0.3"/>
+</svg>
