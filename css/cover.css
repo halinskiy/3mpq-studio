@@ -1,0 +1,43 @@
+/* ---------- обложка: многослойная тушевая сцена (горная мастерская у водопада) + 匠心[логотип]遊創 ----------
+   Модуль из дневника (~/diary/site/public/index.html). Слои assets/scene/*.webp: небо с луной, дальние, средние,
+   ближние скалы с мостом, ветка клёна с фонарями; три полосы тумана. Двигается только transform.
+   Бумага сцены своя (тёплая), тушь и акцент общие с сайтом. Ночные версии слоёв для body.dark. */
+body {
+  --cv-paper: #F5F1E9;
+  --cv-ink: var(--ink);
+  --cv-mist-o: 1;
+}
+body.dark {
+  --cv-paper: #222935;
+  --cv-mist-o: .2;
+}
+.cover { position: fixed; inset: 0; z-index: 40; overflow: hidden; color: var(--cv-ink); background: var(--cv-paper); touch-action: none; user-select: none; -webkit-user-select: none; }
+.cover.gone { visibility: hidden; }
+.cover.gx { background: transparent; }
+.cover.gx .scene { opacity: 0; }
+.scene { position: absolute; inset: 0; overflow: hidden; pointer-events: none; contain: strict; }
+.ly { position: absolute; left: 0; top: 0; overflow: hidden; will-change: transform; backface-visibility: hidden; }
+.ly img { display: block; max-width: none; }
+.ly.mist { background-repeat: repeat-x; }
+/* клёновые листья: мелкие тёмные пятна, как в образце лепестки */
+.leaf { position: absolute; left: 0; top: 0; width: 9px; height: 5px; border-radius: 60% 10% 60% 10%; background: var(--cv-ink); opacity: .4; will-change: transform; }
+body.dark .leaf { opacity: .28; }
+@media (prefers-reduced-motion: reduce) { .leaf { display: none; } }
+.cover canvas { position: absolute; left: 0; top: 0; width: 0; height: 0; display: block; }
+.cover.gone canvas { display: none; }
+.motto { position: absolute; left: 50%; top: 36%; transform: translate(-50%, -50%); display: flex; align-items: center; gap: .3em; margin: 0;
+  font: 700 clamp(48px, 6.4vw, 112px)/1 var(--kanji); white-space: nowrap; pointer-events: none; }
+.motto .kj { display: block; }
+.motto .logo { display: block; width: 1.18em; height: 1.18em; margin-inline: .1em; fill: currentColor; }
+.cover.inked .motto { color: transparent; }
+@media (max-width: 720px) { .motto { top: 38%; gap: .26em; } }
+/* подсказка входа: тихая кнопка внизу, на ней тот же жест, что и колесо */
+.cover-go { position: absolute; left: 50%; bottom: max(32px, env(safe-area-inset-bottom, 0px)); transform: translateX(-50%); z-index: 2;
+  display: inline-flex; align-items: center; gap: 8px; min-height: var(--h); padding: 0 24px; border-radius: 999px; cursor: pointer;
+  border: 1px solid color-mix(in srgb, var(--cv-ink) 22%, transparent); background: color-mix(in srgb, var(--cv-paper) 72%, transparent); color: var(--cv-ink); font-weight: 600; }
+.cover-go:hover { border-color: var(--cv-ink); }
+.cover-go svg { animation: go-nudge 2.4s ease-in-out infinite; }
+@keyframes go-nudge { 0%, 60%, 100% { transform: none; } 30% { transform: translateY(3px); } }
+@media (prefers-reduced-motion: reduce) { .cover-go svg { animation: none; } }
+#page { position: relative; }
+.cover.gx .cover-go { opacity: 0; pointer-events: none; }

@@ -1,0 +1,1727 @@
+{
+ "projects": [
+  {
+   "slug": "pinhole",
+   "title": "Pinhole",
+   "category": "games",
+   "platforms": [
+    "iOS"
+   ],
+   "year": "2026",
+   "client": "",
+   "oneLiner": "A centimetre-tall hunter clears rooms under an old house and banishes bosses.",
+   "links": {
+    "appStore": "https://apps.apple.com/app/pinhole/id6819067770"
+   },
+   "icon": "assets/shots/pinhole/icon.webp",
+   "cover": "assets/shots/pinhole/1.webp",
+   "frame": "assets/shots/pinhole/1.webp",
+   "shots": [
+    "assets/shots/pinhole/2.webp",
+    "assets/shots/pinhole/3.webp",
+    "assets/shots/pinhole/4.webp",
+    "assets/shots/pinhole/5.webp",
+    "assets/shots/pinhole/6.webp",
+    "assets/shots/pinhole/7.webp"
+   ],
+   "hotspots": [
+    {
+     "x": 52,
+     "y": 45,
+     "title": "Light is the mechanic",
+     "text": "The hunter's lantern lights a small circle: everything outside it is a risk, which is the whole tension of the game."
+    },
+    {
+     "x": 6,
+     "y": 4,
+     "title": "Hearts and ammo together",
+     "text": "Health and shots sit in one compact badge, so a glance tells you if you can take the next fight."
+    },
+    {
+     "x": 89,
+     "y": 8,
+     "title": "Room map",
+     "text": "A tiny map of the floor shows cleared rooms, to keep a run oriented under an old house."
+    },
+    {
+     "x": 13,
+     "y": 77,
+     "title": "Thumb-sized controls",
+     "text": "Joystick left, Dash right, both large and semi-transparent: made for playing on a phone held sideways."
+    }
+   ],
+   "scores": {
+    "design": 9.2,
+    "usability": 8.6,
+    "creativity": 9.4,
+    "content": 8.8
+   },
+   "featured": true,
+   "banner": {
+    "art": "assets/shots/pinhole/banner.webp",
+    "kicker": "Featured game · iPhone",
+    "price": "Free"
+   }
+  },
+  {
+   "slug": "ddf",
+   "title": "DDF",
+   "category": "games",
+   "platforms": [
+    "Web",
+    "TV+phones"
+   ],
+   "year": "2026",
+   "client": "",
+   "oneLiner": "Tavern card brawl: table on the big screen, your hand on your phone; bots too.",
+   "links": {
+    "play": "https://ddf.empqwork.workers.dev/"
+   },
+   "icon": "assets/shots/ddf/icon.webp",
+   "cover": "assets/shots/ddf/1.webp",
+   "frame": "assets/shots/ddf/1.webp",
+   "shots": [
+    "assets/shots/ddf/2.webp",
+    "assets/shots/ddf/3.webp",
+    "assets/shots/ddf/4.webp"
+   ],
+   "hotspots": [
+    {
+     "x": 50,
+     "y": 85,
+     "title": "Your hand stays private",
+     "text": "Cards live on your phone; the TV shows only their backs, so bluffing works in a living room."
+    },
+    {
+     "x": 50,
+     "y": 40,
+     "title": "Faces on the table",
+     "text": "Every player and bot sits around one table with a health bar, so the TV reads like a board game."
+    },
+    {
+     "x": 50,
+     "y": 3,
+     "title": "Whose turn",
+     "text": "A single line at the top says who moves now, readable from the sofa."
+    }
+   ],
+   "scores": {
+    "design": 8.9,
+    "usability": 8.4,
+    "creativity": 9.2,
+    "content": 8.6
+   },
+   "featured": false
+  },
+  {
+   "slug": "corder",
+   "title": "Corder",
+   "category": "apps",
+   "platforms": [
+    "macOS"
+   ],
+   "year": "2026",
+   "client": "",
+   "oneLiner": "Local meeting recorder and transcriber for Mac, no bot in the call.",
+   "links": {
+    "visit": "https://getcorder.com/",
+    "download": "https://getcorder.com/install/",
+    "source": "https://github.com/halinskiy/Corder"
+   },
+   "icon": "assets/shots/corder/icon.svg",
+   "cover": "assets/shots/corder/cover.webp",
+   "frame": "assets/shots/corder/cover.webp",
+   "shots": [
+    "assets/shots/corder/1.webp",
+    "assets/shots/corder/2.webp",
+    "assets/shots/corder/3.webp"
+   ],
+   "hotspots": [
+    {
+     "x": 77,
+     "y": 24,
+     "title": "Recording on the side",
+     "text": "The live call stays visible while you read the transcript, so you never lose context."
+    },
+    {
+     "x": 40,
+     "y": 40,
+     "title": "Speakers named",
+     "text": "Each line is attributed to a speaker, which makes the transcript usable as meeting notes."
+    },
+    {
+     "x": 77,
+     "y": 73,
+     "title": "Who talked how much",
+     "text": "A speaker timeline shows the balance of the conversation at a glance."
+    },
+    {
+     "x": 10,
+     "y": 14,
+     "title": "Every meeting searchable",
+     "text": "All recordings are local and searchable from the sidebar."
+    }
+   ],
+   "scores": {
+    "design": 9.0,
+    "usability": 9.1,
+    "creativity": 8.4,
+    "content": 8.7
+   },
+   "featured": false
+  },
+  {
+   "slug": "cromwell-wilkes",
+   "title": "Cromwell Wilkes",
+   "category": "websites",
+   "platforms": [
+    "Web"
+   ],
+   "year": "2026",
+   "client": "Cromwell Wilkes",
+   "oneLiner": "Redesign of a London barrister-led immigration law firm website.",
+   "links": {
+    "visit": "https://cromwellwilkes.co.uk/"
+   },
+   "cover": "assets/shots/cromwell-wilkes/cover.webp",
+   "frame": "assets/shots/cromwell-wilkes/cover.webp",
+   "shots": [
+    "assets/shots/cromwell-wilkes/1.webp",
+    "assets/shots/cromwell-wilkes/2.webp",
+    "assets/shots/cromwell-wilkes/3.webp"
+   ],
+   "hotspots": [
+    {
+     "x": 25,
+     "y": 27,
+     "title": "Trust in the headline",
+     "text": "'Barrister-Led Law Firm in London' says who they are and why it matters in one line."
+    },
+    {
+     "x": 25,
+     "y": 46,
+     "title": "Proof before the fold",
+     "text": "Accreditation, a 4.9 Google rating and a refund guarantee answer a client's first worries."
+    },
+    {
+     "x": 88,
+     "y": 13,
+     "title": "Call or write",
+     "text": "Phone number and 'Get in touch' are always visible, because most clients want to talk first."
+    },
+    {
+     "x": 68,
+     "y": 55,
+     "title": "Local photograph",
+     "text": "Hammersmith Bridge grounds the firm in London without stock photos of handshakes."
+    }
+   ],
+   "scores": {
+    "design": 8.8,
+    "usability": 8.9,
+    "creativity": 8.0,
+    "content": 9.0
+   },
+   "featured": false
+  },
+  {
+   "slug": "trypillia",
+   "title": "Trypillia",
+   "category": "games",
+   "platforms": [
+    "iOS"
+   ],
+   "year": "",
+   "client": "",
+   "oneLiner": "Grow a Trypillian community from a few families into a proto-city.",
+   "links": {
+    "testFlight": "https://testflight.apple.com/join/aH8kUfd6"
+   },
+   "icon": "assets/shots/trypillia/icon.webp",
+   "cover": "assets/shots/trypillia/cover.webp",
+   "frame": "assets/shots/trypillia/cover.webp",
+   "coverPortrait": true,
+   "frameTall": true,
+   "shots": [
+    "assets/shots/trypillia/1.webp",
+    "assets/shots/trypillia/2.webp",
+    "assets/shots/trypillia/3.webp",
+    "assets/shots/trypillia/4.webp"
+   ],
+   "shotsTall": true,
+   "hotspots": [
+    {
+     "x": 48,
+     "y": 40,
+     "title": "A real settlement plan",
+     "text": "Houses form rings like real Trypillian proto-cities; the layout is the history lesson."
+    },
+    {
+     "x": 40,
+     "y": 18,
+     "title": "Fields as resources",
+     "text": "Ploughed fields at the edge show where food comes from before any tooltip does."
+    },
+    {
+     "x": 50,
+     "y": 72,
+     "title": "Big, warm scale",
+     "text": "An isometric camera close to the roofs keeps the game cosy instead of map-like."
+    }
+   ],
+   "scores": {
+    "design": 8.8,
+    "usability": 7.8,
+    "creativity": 8.9,
+    "content": 9.1
+   },
+   "featured": false
+  },
+  {
+   "slug": "voicer",
+   "title": "Voicer",
+   "category": "apps",
+   "platforms": [
+    "macOS"
+   ],
+   "year": "2026",
+   "client": "",
+   "oneLiner": "Hold Fn and talk: local Whisper types your speech into any window.",
+   "links": {
+    "download": "https://github.com/halinskiy/voicer-updates/releases/latest/download/Voicer.dmg"
+   },
+   "icon": "assets/shots/voicer/icon.webp",
+   "cover": "assets/shots/voicer/cover.webp",
+   "frame": "assets/shots/voicer/cover.webp",
+   "shots": [
+    "assets/shots/voicer/1.webp",
+    "assets/shots/voicer/2.webp",
+    "assets/shots/voicer/3.webp",
+    "assets/shots/voicer/4.webp"
+   ],
+   "hotspots": [
+    {
+     "x": 30,
+     "y": 19,
+     "title": "Hold Fn. Speak. Release.",
+     "text": "The whole product is one gesture, so it fits into any app without a new habit."
+    },
+    {
+     "x": 50,
+     "y": 62,
+     "title": "Text lands at the cursor",
+     "text": "Dictation goes into whatever field is focused: notes, mail, code."
+    },
+    {
+     "x": 87,
+     "y": 87,
+     "title": "Quiet recording pill",
+     "text": "A small pill with a waveform shows it is listening, then gets out of the way."
+    }
+   ],
+   "scores": {
+    "design": 8.8,
+    "usability": 9.3,
+    "creativity": 8.2,
+    "content": 8.0
+   },
+   "featured": false
+  },
+  {
+   "slug": "blackout",
+   "title": "Blackout",
+   "category": "games",
+   "platforms": [
+    "Web",
+    "TV+phones"
+   ],
+   "year": "",
+   "client": "",
+   "oneLiner": "Crack a safe in a dark room with friends; each phone holds a different tool.",
+   "links": {
+    "play": "https://blackout.empqwork.workers.dev/"
+   },
+   "cover": "assets/shots/blackout/1.webp",
+   "frame": "assets/shots/blackout/1.webp",
+   "shots": [],
+   "hotspots": [
+    {
+     "x": 49,
+     "y": 47,
+     "title": "Join by QR",
+     "text": "Phones join by scanning the code on the TV: no app, no accounts."
+    },
+    {
+     "x": 50,
+     "y": 62,
+     "title": "Different tool on every phone",
+     "text": "Each player gets a different tool (flashlight, scanner, terminal), so nobody can solve it alone."
+    },
+    {
+     "x": 49,
+     "y": 80,
+     "title": "Start when ready",
+     "text": "The host starts when everyone is in; the button stays disabled until then."
+    }
+   ],
+   "scores": {
+    "design": 8.3,
+    "usability": 8.1,
+    "creativity": 9.0,
+    "content": 7.6
+   },
+   "featured": false
+  },
+  {
+   "slug": "aurora",
+   "title": "AURORA",
+   "category": "games",
+   "platforms": [
+    "Web",
+    "TV+phones"
+   ],
+   "year": "",
+   "client": "",
+   "oneLiner": "Descend into a powerless complex with friends to recover 2 fuel cells.",
+   "links": {
+    "play": "https://aurora.empqwork.workers.dev/"
+   },
+   "cover": "assets/shots/aurora/2.webp",
+   "frame": "assets/shots/aurora/2.webp",
+   "shots": [
+    "assets/shots/aurora/1.webp"
+   ],
+   "hotspots": [
+    {
+     "x": 40,
+     "y": 59,
+     "title": "QR plus room code",
+     "text": "Scan, or type the four-letter code: both paths are on screen for any phone."
+    },
+    {
+     "x": 50,
+     "y": 36,
+     "title": "Mission in one sentence",
+     "text": "The brief fits in two lines under the title, read aloud by whoever holds the remote."
+    },
+    {
+     "x": 50,
+     "y": 76,
+     "title": "One start button",
+     "text": "A single button keeps the lobby calm for a group of people looking at one TV."
+    }
+   ],
+   "scores": {
+    "design": 8.5,
+    "usability": 7.9,
+    "creativity": 8.8,
+    "content": 7.8
+   },
+   "featured": false
+  },
+  {
+   "slug": "quirky",
+   "title": "Quirky",
+   "category": "apps",
+   "platforms": [
+    "macOS"
+   ],
+   "year": "2026",
+   "client": "",
+   "oneLiner": "Capture text, colors, DOM elements, SVGs and pixel measurements on screen.",
+   "links": {
+    "download": "https://github.com/halinskiy/Quirky/releases/latest/download/Quirky.dmg",
+    "source": "https://github.com/halinskiy/Quirky",
+    "visit": "https://halinskiy.github.io/quirky-landing/"
+   },
+   "icon": "assets/shots/quirky/icon.svg",
+   "cover": "assets/shots/quirky/cover.webp",
+   "frame": "assets/shots/quirky/cover.webp",
+   "shots": [
+    "assets/shots/quirky/1.webp",
+    "assets/shots/quirky/2.webp",
+    "assets/shots/quirky/3.webp"
+   ],
+   "hotspots": [
+    {
+     "x": 52,
+     "y": 77,
+     "title": "Mode switcher",
+     "text": "Hex, OCR, DOM, SVG and pixel measuring live in one row, so switching tools costs one click."
+    },
+    {
+     "x": 55,
+     "y": 48,
+     "title": "Pick anything",
+     "text": "Click any pixel on screen: the colour or element is captured and copied."
+    },
+    {
+     "x": 82,
+     "y": 40,
+     "title": "Copy-ready output",
+     "text": "The result is shown in the format you will paste, not as raw data."
+    }
+   ],
+   "scores": {
+    "design": 8.6,
+    "usability": 8.4,
+    "creativity": 8.7,
+    "content": 7.9
+   },
+   "featured": false
+  },
+  {
+   "slug": "timex-site",
+   "title": "Timex site",
+   "category": "websites",
+   "platforms": [
+    "Web"
+   ],
+   "year": "2026",
+   "client": "",
+   "oneLiner": "Landing page for Timex, a terminal-style time tracker.",
+   "links": {
+    "visit": "https://halinskiy.github.io/timex-site/"
+   },
+   "cover": "assets/shots/timex-site/cover.webp",
+   "frame": "assets/shots/timex-site/cover.webp",
+   "shots": [
+    "assets/shots/timex-site/1.webp",
+    "assets/shots/timex-site/2.webp",
+    "assets/shots/timex-site/3.webp"
+   ],
+   "hotspots": [
+    {
+     "x": 25,
+     "y": 35,
+     "title": "Benefit, not features",
+     "text": "'Type. The hour logs itself.' explains the product in five words."
+    },
+    {
+     "x": 12,
+     "y": 66,
+     "title": "Download first",
+     "text": "The primary button goes straight to the signed Mac download."
+    },
+    {
+     "x": 85,
+     "y": 1,
+     "title": "Sticky download",
+     "text": "The download button stays in the header while scrolling."
+    }
+   ],
+   "scores": {
+    "design": 9.0,
+    "usability": 8.5,
+    "creativity": 8.7,
+    "content": 8.2
+   },
+   "featured": false
+  },
+  {
+   "slug": "bunker-defense",
+   "title": "Bunker Defense",
+   "category": "games",
+   "platforms": [
+    "Web",
+    "TV+phones"
+   ],
+   "year": "",
+   "client": "",
+   "oneLiner": "Be the drone: sweep your beam over monsters, build walls, survive 6 waves.",
+   "links": {
+    "play": "https://bunker.empqwork.workers.dev/"
+   },
+   "cover": "assets/shots/bunker-defense/1.webp",
+   "frame": "assets/shots/bunker-defense/1.webp",
+   "shots": [
+    "assets/shots/bunker-defense/2.webp",
+    "assets/shots/bunker-defense/3.webp"
+   ],
+   "hotspots": [
+    {
+     "x": 51,
+     "y": 50,
+     "title": "Defend the core",
+     "text": "The core sits in the middle and everything moves toward it, so the threat is always readable."
+    },
+    {
+     "x": 5,
+     "y": 12,
+     "title": "Wave timer",
+     "text": "Time to the next wave is in the corner of the big screen, like a scoreboard."
+    },
+    {
+     "x": 50,
+     "y": 91,
+     "title": "Hint at the bottom",
+     "text": "One line of help explains the next action without pausing the game."
+    }
+   ],
+   "scores": {
+    "design": 8.0,
+    "usability": 8.3,
+    "creativity": 8.4,
+    "content": 7.5
+   },
+   "featured": false
+  },
+  {
+   "slug": "timex",
+   "title": "Timex",
+   "category": "apps",
+   "platforms": [
+    "macOS"
+   ],
+   "year": "2026",
+   "client": "",
+   "oneLiner": "Keyboard-driven time tracker in a terminal UI, with client-ready reports.",
+   "links": {
+    "download": "https://github.com/halinskiy/timex/releases/latest/download/Timex.dmg",
+    "source": "https://github.com/halinskiy/timex",
+    "visit": "https://halinskiy.github.io/timex-site/"
+   },
+   "icon": "assets/shots/timex/icon.svg",
+   "cover": "assets/shots/timex/cover.webp",
+   "frame": "assets/shots/timex/cover.webp",
+   "shots": [
+    "assets/shots/timex/1.webp",
+    "assets/shots/timex/2.webp"
+   ],
+   "hotspots": [
+    {
+     "x": 53,
+     "y": 10,
+     "title": "Timer that is always on",
+     "text": "The running task and its time are on top, the first thing you see."
+    },
+    {
+     "x": 45,
+     "y": 80,
+     "title": "Type to start",
+     "text": "Type what you are working on and press Enter: no forms, no mouse."
+    },
+    {
+     "x": 52,
+     "y": 32,
+     "title": "Day timeline",
+     "text": "Entries stack into a timeline that becomes a client report at the end of the week."
+    }
+   ],
+   "scores": {
+    "design": 8.5,
+    "usability": 8.6,
+    "creativity": 8.9,
+    "content": 8.1
+   },
+   "featured": false
+  },
+  {
+   "slug": "nightrail",
+   "title": "Nightrail",
+   "category": "games",
+   "platforms": [
+    "iOS"
+   ],
+   "year": "2026",
+   "client": "",
+   "oneLiner": "Run a station: craft gear, grow the workshop tree and keep your crew going.",
+   "links": {
+    "testFlight": "https://testflight.apple.com/join/ruHCtw2c"
+   },
+   "icon": "assets/shots/nightrail/icon.webp",
+   "cover": "assets/shots/nightrail/cover.webp",
+   "frame": "assets/shots/nightrail/cover.webp",
+   "coverPortrait": true,
+   "frameTall": true,
+   "shots": [
+    "assets/shots/nightrail/1.webp"
+   ],
+   "shotsTall": true,
+   "hotspots": [
+    {
+     "x": 30,
+     "y": 4,
+     "title": "Workshops first",
+     "text": "The craft tab opens on what you can build right now, with resources counted on top."
+    },
+    {
+     "x": 50,
+     "y": 27,
+     "title": "Skill tree as cards",
+     "text": "Each workshop upgrade is a card with its bonus and cost, so choices compare side by side."
+    },
+    {
+     "x": 50,
+     "y": 96,
+     "title": "Five tabs",
+     "text": "Station, Crafts, Map, Crew, Profile: the whole game is reachable with one thumb."
+    }
+   ],
+   "scores": {
+    "design": 8.2,
+    "usability": 7.6,
+    "creativity": 8.3,
+    "content": 7.9
+   },
+   "featured": false
+  },
+  {
+   "slug": "kerbside",
+   "title": "Kerbside",
+   "category": "websites",
+   "platforms": [
+    "Web"
+   ],
+   "year": "2026",
+   "client": "",
+   "oneLiner": "Mobile car diagnostics: a mechanic comes to your driveway.",
+   "links": {
+    "visit": "https://halinskiy.github.io/kerbside/"
+   },
+   "cover": "assets/shots/kerbside/cover.webp",
+   "frame": "assets/shots/kerbside/cover.webp",
+   "shots": [
+    "assets/shots/kerbside/1.webp",
+    "assets/shots/kerbside/2.webp",
+    "assets/shots/kerbside/3.webp"
+   ],
+   "hotspots": [
+    {
+     "x": 50,
+     "y": 33,
+     "title": "Where the service happens",
+     "text": "'The garage comes to you' is both the headline and the product."
+    },
+    {
+     "x": 75,
+     "y": 60,
+     "title": "Booking right in the hero",
+     "text": "Postcode, symptom and day: availability is checked without leaving the first screen."
+    },
+    {
+     "x": 55,
+     "y": 75,
+     "title": "Proof in numbers",
+     "text": "Vehicles fixed, average time on site and rating, right under the booking form."
+    }
+   ],
+   "scores": {
+    "design": 8.5,
+    "usability": 8.8,
+    "creativity": 7.9,
+    "content": 8.4
+   },
+   "featured": false
+  },
+  {
+   "slug": "calista-law",
+   "title": "Calista Law",
+   "category": "websites",
+   "platforms": [
+    "Web"
+   ],
+   "year": "2026",
+   "client": "",
+   "oneLiner": "Concept site for a UK Global Talent visa service for designers.",
+   "links": {
+    "visit": "https://halinskiy.github.io/calista-law/"
+   },
+   "cover": "assets/shots/calista-law/cover.webp",
+   "frame": "assets/shots/calista-law/cover.webp",
+   "shots": [
+    "assets/shots/calista-law/1.webp",
+    "assets/shots/calista-law/2.webp",
+    "assets/shots/calista-law/3.webp"
+   ],
+   "hotspots": [
+    {
+     "x": 25,
+     "y": 30,
+     "title": "Speaks to designers",
+     "text": "The headline talks to the audience in their language: 'the strength of your work'."
+    },
+    {
+     "x": 20,
+     "y": 68,
+     "title": "Free assessment",
+     "text": "A free first step lowers the barrier before a paid visa service."
+    },
+    {
+     "x": 50,
+     "y": 86,
+     "title": "Numbers that matter",
+     "text": "Fees, years to settlement and the endorsing bodies are shown as plain facts."
+    }
+   ],
+   "scores": {
+    "design": 8.6,
+    "usability": 8.4,
+    "creativity": 8.1,
+    "content": 8.9
+   },
+   "featured": false
+  },
+  {
+   "slug": "paper-dragon",
+   "title": "Paper Dragon",
+   "category": "games",
+   "platforms": [
+    "Web"
+   ],
+   "year": "2026",
+   "client": "",
+   "oneLiner": "Guide a paper dragon through a night lantern festival, dodging storms.",
+   "links": {
+    "play": "https://halinskiy.github.io/arcade-lab-demo/demo/games/paper-dragon/"
+   },
+   "cover": "assets/shots/paper-dragon/2.webp",
+   "frame": "assets/shots/paper-dragon/2.webp",
+   "shots": [
+    "assets/shots/paper-dragon/1.webp"
+   ],
+   "hotspots": [
+    {
+     "x": 80,
+     "y": 52,
+     "title": "Dragon made of lanterns",
+     "text": "The dragon's tail grows with every lantern collected, so the score is drawn on screen."
+    },
+    {
+     "x": 50,
+     "y": 90,
+     "title": "One-line goal",
+     "text": "'Collect lanterns, avoid the storm clouds': the rule fits in a single line."
+    },
+    {
+     "x": 4,
+     "y": 9,
+     "title": "Score in the corner",
+     "text": "A big white number, no frame: it stays readable on the dark night sky."
+    }
+   ],
+   "scores": {
+    "design": 8.7,
+    "usability": 8.5,
+    "creativity": 8.8,
+    "content": 7.4
+   },
+   "featured": false
+  },
+  {
+   "slug": "planet-drop",
+   "title": "Planet Drop",
+   "category": "games",
+   "platforms": [
+    "Web"
+   ],
+   "year": "2026",
+   "client": "",
+   "oneLiner": "Drop planets into a glass jar and merge matching ones into bigger worlds.",
+   "links": {
+    "play": "https://halinskiy.github.io/arcade-lab-demo/demo/games/planet-drop/"
+   },
+   "cover": "assets/shots/planet-drop/2.webp",
+   "frame": "assets/shots/planet-drop/2.webp",
+   "shots": [
+    "assets/shots/planet-drop/1.webp"
+   ],
+   "hotspots": [
+    {
+     "x": 50,
+     "y": 55,
+     "title": "A jar as the board",
+     "text": "The glass jar is the playfield and the fail line at once: 'keep below this line'."
+    },
+    {
+     "x": 61,
+     "y": 7,
+     "title": "Aim from the top",
+     "text": "The next planet hangs above the jar with arrows, so aiming needs no explanation."
+    },
+    {
+     "x": 88,
+     "y": 47,
+     "title": "Next up",
+     "text": "The queue on the right lets players plan merges a step ahead."
+    }
+   ],
+   "scores": {
+    "design": 8.4,
+    "usability": 8.9,
+    "creativity": 8.0,
+    "content": 7.3
+   },
+   "featured": false
+  },
+  {
+   "slug": "corder-site",
+   "title": "Corder landing",
+   "category": "websites",
+   "platforms": [
+    "Web"
+   ],
+   "year": "2026",
+   "client": "",
+   "oneLiner": "Landing page for Corder, the Mac meeting recorder.",
+   "links": {
+    "visit": "https://getcorder.com/"
+   },
+   "cover": "assets/shots/corder-site/cover.webp",
+   "frame": "assets/shots/corder-site/cover.webp",
+   "shots": [
+    "assets/shots/corder-site/1.webp",
+    "assets/shots/corder-site/2.webp",
+    "assets/shots/corder-site/3.webp"
+   ],
+   "hotspots": [
+    {
+     "x": 50,
+     "y": 30,
+     "title": "Promise in three words",
+     "text": "'Just Record Everything' sells the product before any feature list."
+    },
+    {
+     "x": 43,
+     "y": 40,
+     "title": "Download is the main action",
+     "text": "One green button to the Mac download; GitHub stars as social proof next to it."
+    },
+    {
+     "x": 55,
+     "y": 80,
+     "title": "The real app below",
+     "text": "The hero shows the actual interface, not an illustration, so visitors see what they get."
+    }
+   ],
+   "scores": {
+    "design": 8.9,
+    "usability": 8.6,
+    "creativity": 8.2,
+    "content": 8.5
+   },
+   "featured": false
+  },
+  {
+   "slug": "qeepl",
+   "title": "Qeepl",
+   "category": "apps",
+   "platforms": [
+    "macOS"
+   ],
+   "year": "2026",
+   "client": "",
+   "oneLiner": "Infinite zoomable canvas for terminals, browsers, VS Code and notes.",
+   "links": {
+    "download": "https://github.com/halinskiy/qeepl-updates/releases/latest",
+    "visit": "https://halinskiy.github.io/qeepl-updates/"
+   },
+   "icon": "assets/shots/qeepl/icon.webp",
+   "cover": "",
+   "frame": "",
+   "shots": [],
+   "hotspots": [],
+   "scores": {
+    "design": 8.7,
+    "usability": 8.2,
+    "creativity": 9.1,
+    "content": 7.9
+   },
+   "featured": false
+  },
+  {
+   "slug": "weddingstaffs",
+   "title": "WeddingStaffs",
+   "category": "websites",
+   "platforms": [
+    "Web"
+   ],
+   "year": "2026",
+   "client": "",
+   "oneLiner": "Wedding invitation websites with RSVP, countdown and music, sold on Etsy.",
+   "links": {
+    "visit": "https://weddingstaffs.com/"
+   },
+   "cover": "assets/shots/weddingstaffs/cover.webp",
+   "frame": "assets/shots/weddingstaffs/cover.webp",
+   "shots": [
+    "assets/shots/weddingstaffs/1.webp",
+    "assets/shots/weddingstaffs/2.webp",
+    "assets/shots/weddingstaffs/3.webp"
+   ],
+   "hotspots": [
+    {
+     "x": 30,
+     "y": 22,
+     "title": "Category in two words",
+     "text": "'Wedding Websites' and a one-line explanation: designs, RSVP, music, edited on your phone."
+    },
+    {
+     "x": 18,
+     "y": 58,
+     "title": "Designs as products",
+     "text": "Each design is a card with a photo and short description, like a shop shelf."
+    },
+    {
+     "x": 30,
+     "y": 95,
+     "title": "Try before you buy",
+     "text": "'Try the editor' sits next to 'Buy on Etsy', so couples can play first."
+    }
+   ],
+   "scores": {
+    "design": 8.7,
+    "usability": 8.3,
+    "creativity": 8.6,
+    "content": 8.2
+   },
+   "featured": false
+  },
+  {
+   "slug": "logics7",
+   "title": "Logics7",
+   "category": "websites",
+   "platforms": [
+    "Web"
+   ],
+   "year": "2026",
+   "client": "",
+   "oneLiner": "Site for a studio that builds digital products and business systems.",
+   "links": {
+    "visit": "https://logics7.com/"
+   },
+   "cover": "assets/shots/logics7/cover.webp",
+   "frame": "assets/shots/logics7/cover.webp",
+   "shots": [
+    "assets/shots/logics7/1.webp",
+    "assets/shots/logics7/2.webp",
+    "assets/shots/logics7/3.webp"
+   ],
+   "hotspots": [
+    {
+     "x": 25,
+     "y": 20,
+     "title": "What, for whom",
+     "text": "Digital products and business systems 'built to operate': the promise is about running, not launching."
+    },
+    {
+     "x": 13,
+     "y": 52,
+     "title": "One clear next step",
+     "text": "'Start a conversation' is the main action; the presentation is a quieter alternative."
+    },
+    {
+     "x": 80,
+     "y": 40,
+     "title": "A real person",
+     "text": "The CEO's photo and role turn an agency page into a conversation with someone."
+    }
+   ],
+   "scores": {
+    "design": 8.3,
+    "usability": 8.1,
+    "creativity": 8.0,
+    "content": 8.6
+   },
+   "featured": false
+  },
+  {
+   "slug": "pult",
+   "title": "Pult",
+   "category": "apps",
+   "platforms": [
+    "macOS",
+    "iOS"
+   ],
+   "year": "2026",
+   "client": "",
+   "oneLiner": "Control your Mac from iPhone and Apple Watch: trackpad, media, screen.",
+   "links": {
+    "testFlight": "https://testflight.apple.com/join/GDvbprBp",
+    "download": "https://github.com/halinskiy/pult-updates/releases/latest/download/Pult-0.5.3.dmg"
+   },
+   "icon": "assets/shots/pult/icon.webp",
+   "cover": "assets/shots/pult/cover.webp",
+   "frame": "assets/shots/pult/cover.webp",
+   "shots": [
+    "assets/shots/pult/1.webp"
+   ],
+   "hotspots": [
+    {
+     "x": 50,
+     "y": 47,
+     "title": "Trackpad area",
+     "text": "A big touch area turns the iPhone into a trackpad for the Mac."
+    },
+    {
+     "x": 78,
+     "y": 9,
+     "title": "Capture the mouse",
+     "text": "One button gives full control over the cursor, with a hotkey to release it."
+    },
+    {
+     "x": 54,
+     "y": 93,
+     "title": "Media keys",
+     "text": "Play, pause and skip are always in reach, for the most common couch use."
+    }
+   ],
+   "scores": {
+    "design": 7.8,
+    "usability": 8.3,
+    "creativity": 7.9,
+    "content": 7.4
+   },
+   "featured": false
+  },
+  {
+   "slug": "hole-city",
+   "title": "Hole City",
+   "category": "games",
+   "platforms": [
+    "Web"
+   ],
+   "year": "2026",
+   "client": "",
+   "oneLiner": "A hole roams the city, swallowing everything smaller and growing.",
+   "links": {
+    "play": "https://hole-city.empqwork.workers.dev/"
+   },
+   "cover": "assets/shots/hole-city/1.webp",
+   "frame": "assets/shots/hole-city/1.webp",
+   "shots": [
+    "assets/shots/hole-city/2.webp"
+   ],
+   "hotspots": [
+    {
+     "x": 50,
+     "y": 52,
+     "title": "The hole is the hero",
+     "text": "A black hole in a bright town reads instantly; nothing else on screen is that dark."
+    },
+    {
+     "x": 50,
+     "y": 6,
+     "title": "Next size goal",
+     "text": "The bar shows how much you have to swallow to grow to the next size of objects."
+    },
+    {
+     "x": 5,
+     "y": 6,
+     "title": "Size in metres",
+     "text": "Showing the hole's size in metres makes growth tangible."
+    }
+   ],
+   "scores": {
+    "design": 8.2,
+    "usability": 8.9,
+    "creativity": 7.9,
+    "content": 7.6
+   },
+   "featured": false
+  },
+  {
+   "slug": "piggy-run",
+   "title": "Piggy Run",
+   "category": "games",
+   "platforms": [
+    "Web"
+   ],
+   "year": "2026",
+   "client": "YouTube Playables",
+   "oneLiner": "Run for coins, then build your own theme park.",
+   "links": {
+    "play": "https://piggy-run.empqwork.workers.dev/"
+   },
+   "cover": "assets/shots/piggy-run/2.webp",
+   "frame": "assets/shots/piggy-run/2.webp",
+   "shots": [
+    "assets/shots/piggy-run/1.webp",
+    "assets/shots/piggy-run/3.webp"
+   ],
+   "hotspots": [
+    {
+     "x": 46,
+     "y": 48,
+     "title": "Gates that do the maths",
+     "text": "x2 and +10 gates turn a simple runner into a quick choice every second: greed or safety."
+    },
+    {
+     "x": 37,
+     "y": 8,
+     "title": "Coins first",
+     "text": "The coin counter sits where the eye starts, because coins feed the theme park you build between runs."
+    },
+    {
+     "x": 52,
+     "y": 6,
+     "title": "Progress bar, not a timer",
+     "text": "A thin level bar shows how far the finish is without adding pressure."
+    }
+   ],
+   "scores": {
+    "design": 8.3,
+    "usability": 8.7,
+    "creativity": 7.6,
+    "content": 7.8
+   },
+   "featured": false
+  },
+  {
+   "slug": "snake-arena",
+   "title": "Snake Arena",
+   "category": "games",
+   "platforms": [
+    "Web"
+   ],
+   "year": "2026",
+   "client": "YouTube Playables",
+   "oneLiner": "Grow on coins, cut down rival snakes and beat the boss.",
+   "links": {
+    "play": "https://snake-arena.empqwork.workers.dev/"
+   },
+   "cover": "assets/shots/snake-arena/2.webp",
+   "frame": "assets/shots/snake-arena/2.webp",
+   "shots": [
+    "assets/shots/snake-arena/1.webp"
+   ],
+   "hotspots": [
+    {
+     "x": 47,
+     "y": 68,
+     "title": "Upgrades before the fight",
+     "text": "Start level, speed and item power are bought between rounds, so failing still feels like progress."
+    },
+    {
+     "x": 49,
+     "y": 92,
+     "title": "One loud button",
+     "text": "FIGHT! is the only saturated button on screen; everything else is calm and secondary."
+    },
+    {
+     "x": 60,
+     "y": 30,
+     "title": "Rivals you can read",
+     "text": "Each rival snake has its own colour and a name tag, so you know whom to cut off."
+    }
+   ],
+   "scores": {
+    "design": 8.2,
+    "usability": 8.4,
+    "creativity": 7.7,
+    "content": 7.9
+   },
+   "featured": false
+  },
+  {
+   "slug": "antistress",
+   "title": "Antistress",
+   "category": "games",
+   "platforms": [
+    "Web"
+   ],
+   "year": "",
+   "client": "YouTube Playables",
+   "oneLiner": "67 aimless mini-games: slice, squish, pop and drum.",
+   "links": {
+    "play": "https://antistress.empqwork.workers.dev/"
+   },
+   "cover": "assets/shots/antistress/1.webp",
+   "frame": "assets/shots/antistress/1.webp",
+   "shots": [],
+   "hotspots": [
+    {
+     "x": 52,
+     "y": 7,
+     "title": "One shelf of toys",
+     "text": "67 mini-games live on one scrolling shelf, so there is no menu tree to learn before the first tap."
+    },
+    {
+     "x": 42,
+     "y": 18,
+     "title": "Search on top",
+     "text": "With this many toys, search beats categories: type 'pop' and you are playing in a second."
+    },
+    {
+     "x": 42,
+     "y": 42,
+     "title": "Tiles you can read",
+     "text": "Big rounded tiles with a single object each read at thumbnail size on a phone, which is where Playables are opened."
+    }
+   ],
+   "scores": {
+    "design": 8.1,
+    "usability": 8.8,
+    "creativity": 7.9,
+    "content": 8.6
+   },
+   "featured": false
+  },
+  {
+   "slug": "punch-time",
+   "title": "Punch Time",
+   "category": "games",
+   "platforms": [
+    "Web"
+   ],
+   "year": "",
+   "client": "YouTube Playables",
+   "oneLiner": "Tap the guy, the boxing glove on a stick fires and sends him flying.",
+   "links": {
+    "play": "https://punch.empqwork.workers.dev/"
+   },
+   "cover": "assets/shots/punch-time/1.webp",
+   "frame": "assets/shots/punch-time/1.webp",
+   "shots": [
+    "assets/shots/punch-time/2.webp",
+    "assets/shots/punch-time/3.webp"
+   ],
+   "hotspots": [
+    {
+     "x": 50,
+     "y": 17,
+     "title": "One instruction",
+     "text": "'Tap To Hit!' is the whole tutorial: the game is understood before the hand reaches the screen."
+    },
+    {
+     "x": 52,
+     "y": 75,
+     "title": "The glove is the button",
+     "text": "The glove on a stick points at the target, so players know what the tap will do."
+    },
+    {
+     "x": 51,
+     "y": 52,
+     "title": "Ragdoll payoff",
+     "text": "The target flies in a different arc every time, which is what makes people tap again."
+    }
+   ],
+   "scores": {
+    "design": 7.8,
+    "usability": 9.0,
+    "creativity": 7.5,
+    "content": 7.0
+   },
+   "featured": false
+  },
+  {
+   "slug": "sky-roll",
+   "title": "Sky Roll",
+   "category": "games",
+   "platforms": [
+    "Web"
+   ],
+   "year": "2026",
+   "client": "YouTube Playables",
+   "oneLiner": "Swipe to roll a ball along a sky track to the finish.",
+   "links": {
+    "play": "https://sky-roll.empqwork.workers.dev/"
+   },
+   "cover": "assets/shots/sky-roll/1.webp",
+   "frame": "assets/shots/sky-roll/1.webp",
+   "shots": [
+    "assets/shots/sky-roll/2.webp"
+   ],
+   "hotspots": [
+    {
+     "x": 50,
+     "y": 55,
+     "title": "Ball in the centre",
+     "text": "The camera keeps the ball centred so a swipe always means the same thing, whatever the curve ahead."
+    },
+    {
+     "x": 50,
+     "y": 10,
+     "title": "Lives as stacked balls",
+     "text": "Remaining lives are shown as balls on the track itself, not as a number in a corner."
+    },
+    {
+     "x": 49,
+     "y": 82,
+     "title": "Swipe hint where the thumb is",
+     "text": "The hint sits exactly where the thumb rests, then disappears after the first swipe."
+    }
+   ],
+   "scores": {
+    "design": 7.9,
+    "usability": 8.6,
+    "creativity": 7.2,
+    "content": 7.1
+   },
+   "featured": false
+  },
+  {
+   "slug": "way-home",
+   "title": "Way Home",
+   "category": "games",
+   "platforms": [
+    "Web"
+   ],
+   "year": "2026",
+   "client": "",
+   "oneLiner": "Draw each parent a path to the house of their colour.",
+   "links": {
+    "play": "https://draw-home.empqwork.workers.dev/"
+   },
+   "cover": "assets/shots/way-home/1.webp",
+   "frame": "assets/shots/way-home/1.webp",
+   "shots": [],
+   "hotspots": [
+    {
+     "x": 50,
+     "y": 13,
+     "title": "Goal at the top",
+     "text": "The house of the matching colour sits at the far end, so the path you draw always reads bottom to top."
+    },
+    {
+     "x": 50,
+     "y": 85,
+     "title": "Start where the finger is",
+     "text": "The parent stands near the thumb: drawing starts without reaching across the screen."
+    },
+    {
+     "x": 8,
+     "y": 9,
+     "title": "Instruction in four words",
+     "text": "'Draw a path home' is the full rule set; level 1 teaches the rest."
+    }
+   ],
+   "scores": {
+    "design": 8.0,
+    "usability": 8.8,
+    "creativity": 8.1,
+    "content": 7.2
+   },
+   "featured": false
+  },
+  {
+   "slug": "ninja-sneak",
+   "title": "Ninja Sneak",
+   "category": "games",
+   "platforms": [
+    "Web"
+   ],
+   "year": "2026",
+   "client": "",
+   "oneLiner": "Sneak up on guards from behind and stay out of the light.",
+   "links": {
+    "play": "https://ninja.empqwork.workers.dev/"
+   },
+   "cover": "assets/shots/ninja-sneak/1.webp",
+   "frame": "assets/shots/ninja-sneak/1.webp",
+   "shots": [],
+   "hotspots": [
+    {
+     "x": 50,
+     "y": 30,
+     "title": "Light cones",
+     "text": "Guards show their field of view as a soft cone, so stealth is readable without any HUD."
+    },
+    {
+     "x": 50,
+     "y": 63,
+     "title": "Drag anywhere",
+     "text": "The control ring appears where you touch: no fixed joystick to look for."
+    },
+    {
+     "x": 50,
+     "y": 5,
+     "title": "Guards counter",
+     "text": "'Guards 0/1' tells you the level goal in the same place on every level."
+    }
+   ],
+   "scores": {
+    "design": 8.1,
+    "usability": 8.5,
+    "creativity": 8.0,
+    "content": 7.3
+   },
+   "featured": false
+  },
+  {
+   "slug": "shiny-wash",
+   "title": "Shiny Wash",
+   "category": "games",
+   "platforms": [
+    "Web"
+   ],
+   "year": "2026",
+   "client": "",
+   "oneLiner": "Hose off the mud, foam, scrub and dry the car to a shine.",
+   "links": {
+    "play": "https://car-wash.empqwork.workers.dev/"
+   },
+   "cover": "assets/shots/shiny-wash/1.webp",
+   "frame": "assets/shots/shiny-wash/1.webp",
+   "shots": [
+    "assets/shots/shiny-wash/2.webp"
+   ],
+   "hotspots": [
+    {
+     "x": 50,
+     "y": 11,
+     "title": "Progress you can see",
+     "text": "The percentage bar fills as mud disappears, so the player knows when the stage is done."
+    },
+    {
+     "x": 30,
+     "y": 50,
+     "title": "Tactile cursor",
+     "text": "The hand cursor and the spray match the real gesture, which makes the cleaning satisfying."
+    },
+    {
+     "x": 50,
+     "y": 94,
+     "title": "Tool switch",
+     "text": "One round button swaps hose, foam and dryer at the bottom, in reach of the thumb."
+    }
+   ],
+   "scores": {
+    "design": 8.4,
+    "usability": 8.6,
+    "creativity": 7.8,
+    "content": 7.4
+   },
+   "featured": false
+  },
+  {
+   "slug": "snip-salon",
+   "title": "Snip Salon",
+   "category": "games",
+   "platforms": [
+    "Web"
+   ],
+   "year": "2026",
+   "client": "",
+   "oneLiner": "Comb, cut along the line, dye and blow-dry.",
+   "links": {
+    "play": "https://hair-salon.empqwork.workers.dev/"
+   },
+   "cover": "assets/shots/snip-salon/1.webp",
+   "frame": "assets/shots/snip-salon/1.webp",
+   "shots": [],
+   "hotspots": [
+    {
+     "x": 50,
+     "y": 12,
+     "title": "Cut-line meter",
+     "text": "The meter at the top shows how close the cut is to the dotted line: a clear score without numbers."
+    },
+    {
+     "x": 90,
+     "y": 60,
+     "title": "Scissors in reach",
+     "text": "Tools rest on the right edge, where a right thumb already is."
+    },
+    {
+     "x": 50,
+     "y": 46,
+     "title": "A face that reacts",
+     "text": "The doll reacts to each step, which turns a chore into a small story."
+    }
+   ],
+   "scores": {
+    "design": 8.3,
+    "usability": 8.2,
+    "creativity": 8.0,
+    "content": 7.5
+   },
+   "featured": false
+  },
+  {
+   "slug": "template-design",
+   "title": "Template Design",
+   "category": "websites",
+   "platforms": [
+    "Web"
+   ],
+   "year": "",
+   "client": "",
+   "oneLiner": "Landing page for a wealth management advisory.",
+   "links": {
+    "visit": "https://aisoldier-template-design.vercel.app/"
+   },
+   "cover": "assets/shots/template-design/cover.webp",
+   "frame": "assets/shots/template-design/cover.webp",
+   "shots": [
+    "assets/shots/template-design/1.webp",
+    "assets/shots/template-design/2.webp",
+    "assets/shots/template-design/3.webp"
+   ],
+   "hotspots": [
+    {
+     "x": 20,
+     "y": 40,
+     "title": "Serif for trust",
+     "text": "Large serif type gives a wealth advisory the calm tone of a private bank."
+    },
+    {
+     "x": 16,
+     "y": 70,
+     "title": "Book a review",
+     "text": "The main action is a 30-minute review: a low-commitment first step."
+    },
+    {
+     "x": 78,
+     "y": 45,
+     "title": "People, not charts",
+     "text": "A photo of a team meeting instead of stock graphs keeps it human."
+    }
+   ],
+   "scores": {
+    "design": 8.4,
+    "usability": 8.0,
+    "creativity": 7.8,
+    "content": 7.7
+   },
+   "featured": false
+  },
+  {
+   "slug": "emigral-tools",
+   "title": "Emigral tools",
+   "category": "websites",
+   "platforms": [
+    "Web"
+   ],
+   "year": "",
+   "client": "",
+   "oneLiner": "Free UK immigration tools: sponsor licence and reference letter builders.",
+   "links": {
+    "visit": "https://emigral.uk/tools"
+   },
+   "cover": "assets/shots/emigral-tools/cover.webp",
+   "frame": "assets/shots/emigral-tools/cover.webp",
+   "shots": [
+    "assets/shots/emigral-tools/1.webp"
+   ],
+   "hotspots": [
+    {
+     "x": 50,
+     "y": 30,
+     "title": "Free, no sign-up",
+     "text": "The subtitle removes the two usual objections before the tools are shown."
+    },
+    {
+     "x": 20,
+     "y": 60,
+     "title": "Tool cards",
+     "text": "Each tool says exactly which letter it builds and for which visa."
+    },
+    {
+     "x": 33,
+     "y": 20,
+     "title": "Trustpilot rating",
+     "text": "Social proof sits right under the navigation, before the content."
+    }
+   ],
+   "scores": {
+    "design": 7.6,
+    "usability": 8.4,
+    "creativity": 7.0,
+    "content": 8.3
+   },
+   "featured": false
+  },
+  {
+   "slug": "pet-in-the-system",
+   "title": "Pet in The System",
+   "category": "apps",
+   "platforms": [
+    "macOS"
+   ],
+   "year": "2026",
+   "client": "",
+   "oneLiner": "A pixel pet that walks on your windows, sleeps and gets thrown around.",
+   "links": {
+    "download": "https://github.com/halinskiy/PTS/releases/latest/download/PTS.dmg",
+    "source": "https://github.com/halinskiy/PTS"
+   },
+   "icon": "assets/shots/pet-in-the-system/icon.svg",
+   "cover": "",
+   "frame": "",
+   "shots": [],
+   "hotspots": [],
+   "scores": {
+    "design": 8.4,
+    "usability": 7.7,
+    "creativity": 9.2,
+    "content": 7.4
+   },
+   "featured": false
+  },
+  {
+   "slug": "wgrid",
+   "title": "WGrid",
+   "category": "apps",
+   "platforms": [
+    "macOS"
+   ],
+   "year": "2026",
+   "client": "",
+   "oneLiner": "Snap windows into clean grids from the menu bar, drag to rearrange.",
+   "links": {
+    "download": "https://github.com/halinskiy/WGrid/releases/latest/download/WGrid.dmg",
+    "source": "https://github.com/halinskiy/WGrid"
+   },
+   "icon": "assets/shots/wgrid/icon.svg",
+   "cover": "",
+   "frame": "",
+   "shots": [],
+   "hotspots": [],
+   "scores": {
+    "design": 7.9,
+    "usability": 8.7,
+    "creativity": 7.4,
+    "content": 7.1
+   },
+   "featured": false
+  },
+  {
+   "slug": "mixo",
+   "title": "Mixo",
+   "category": "apps",
+   "platforms": [
+    "macOS"
+   ],
+   "year": "2026",
+   "client": "",
+   "oneLiner": "Per-app volume mixer in the menu bar.",
+   "links": {},
+   "icon": "assets/shots/mixo/icon.webp",
+   "cover": "",
+   "frame": "",
+   "shots": [],
+   "hotspots": [],
+   "scores": {
+    "design": 8.0,
+    "usability": 8.8,
+    "creativity": 7.3,
+    "content": 7.2
+   },
+   "featured": false
+  },
+  {
+   "slug": "testio",
+   "title": "Testio",
+   "category": "apps",
+   "platforms": [
+    "Web"
+   ],
+   "year": "2026",
+   "client": "",
+   "oneLiner": "SaaS for running usability tests on live URLs.",
+   "links": {},
+   "cover": "",
+   "frame": "",
+   "shots": [],
+   "hotspots": [],
+   "scores": {
+    "design": 7.7,
+    "usability": 8.0,
+    "creativity": 7.6,
+    "content": 7.3
+   },
+   "featured": false
+  }
+ ]
+}

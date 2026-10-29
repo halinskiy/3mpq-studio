@@ -1,0 +1,24 @@
+
+<svg width="75px" height="75px" viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#D8D8D8" opacity="0" x="0" y="0" width="75" height="75"></rect>
+        <g transform="translate(1.000000, 11.000000)">
+            <!-- Body (orange) -->
+            <rect fill="#E87830" x="7" y="0" width="58" height="36"></rect>
+            <!-- Legs -->
+            <rect fill="#E87830" x="7" y="23" width="9" height="36"></rect>
+            <rect fill="#E87830" x="21" y="23" width="9" height="36"></rect>
+            <rect fill="#E87830" x="42" y="23" width="9" height="36"></rect>
+            <rect fill="#E87830" x="56" y="23" width="9" height="36"></rect>
+            <!-- Feet -->
+            <rect fill="#E87830" x="0" y="21" width="9" height="9"></rect>
+            <rect fill="#E87830" x="23" y="21" width="9" height="9"></rect>
+            <rect fill="#E87830" x="63" y="21" width="9" height="9"></rect>
+            <!-- Screen area (same as body = uniform) -->
+            <rect fill="#E87830" x="14" y="5" width="44" height="22"></rect>
+            <!-- Eyes (black) -->
+            <rect fill="#000000" x="21" y="18" width="8" height="8"></rect>
+            <rect fill="#000000" x="43" y="18" width="8" height="8"></rect>
+        </g>
+    </g>
+</svg>
