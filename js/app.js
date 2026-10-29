@@ -114,7 +114,6 @@
     return `<section class="sec" data-rv="評" aria-label="Scores"><div class="wrap"><div class="scores">
       <div class="total">${ring(total(s), true)}<span>Overall / 10</span></div>
       <div class="bars">${SC.map(([k, t]) => `<div class="bar"><p class="bar-h"><span>${t}</span><small>${Math.round(W[k] * 100)}%</small></p><div class="track"><i style="--v:${((s[k] || 0) / 10).toFixed(3)}"></i></div><p class="bar-v"><b>${(s[k] || 0).toFixed(1)}</b> / 10</p></div>`).join("")}</div>
-      <p class="score-note">Studio self-assessment on a 10-point jury scale.</p>
     </div></div></section>`;
   }
   function stage(p, frame) {
